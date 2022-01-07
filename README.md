@@ -8,3 +8,5 @@ yi kou linux文件夹存放文档：https://blog.csdn.net/daocaokafei/category_1
 
 
 用C语言写成面向对象：https://www.cs.rit.edu/~ats/books/ooc.pdf
+
+程序是怎么生成的：https://www.tenouk.com/ModuleW.html
